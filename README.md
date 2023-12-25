@@ -1,6 +1,6 @@
 # NTU Tutor Web 📖
 
-#### In the summer of 2021, I and my team have completed a web page allows users to find the most suitable students/teachers.
+#### In summer 2021, I and my team have completed a web page allows users to find the most suitable students/teachers.
 
 ## 🚀 In this project, I learned and utilized the following skills:
 ### Programming Language
